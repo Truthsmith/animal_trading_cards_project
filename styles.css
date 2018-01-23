@@ -1,0 +1,38 @@
+body {
+	background-color: white;
+}
+
+.card {
+	background-color: #443939;
+	width: 300px;
+	border: 1px solid white;
+	border-radius: 15px;
+	padding: 10px;
+}
+.animal-name {
+	font-family: 'Ubuntu Condensed', sans-serif;
+	font-size: 60px;
+	margin: 5px 35px;
+	color: white;
+}
+
+.animal-picture {
+	width: 300px;
+	height: 200px;
+	border-radius: 10px;
+}
+
+.animal-data {
+	border: 1px solid white;
+	border-radius: 10px;
+	background-color: white;
+	color:  #443939;
+	padding: 0px 10px;
+}
+
+.animal-details {
+	list-style-type: none;
+}
+.label {
+	font-weight: bold;
+}
